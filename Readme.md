@@ -3,4 +3,4 @@
 
 A fully responsive webpage built using HTML and Tailwind CSS.
 
-[![image](resources/ss.jpeg)]
+![image](resources/ss.jpeg)
